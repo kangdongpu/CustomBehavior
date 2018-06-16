@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">仿知乎Behavior</string>
+    <string name="layout_behavior_scale_show">com.kdp.behavior.view.FloatingScaleBehavior</string>
+</resources>
